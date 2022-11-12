@@ -4,7 +4,7 @@ Here is the collection of my works, generally each documentation is licensed und
 
 |    Documentation     |
 |----------------------|
-| [Flatpak Notes]()    |
+| [Flatpak Notes](https://github.com/TechScribe-Deaf/Docs/blob/main/FlatpakNote.pdf)    |
 
 # Thinking about donating?
 <img src="https://img.shields.io/liberapay/patrons/TechScribe.svg?logo=liberapay">
