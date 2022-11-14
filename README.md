@@ -4,7 +4,7 @@ Here is the collection of my works, generally each documentation is licensed und
 
 |    Documentation     |
 |----------------------|
-| [Flatpak Notes](https://github.com/TechScribe-Deaf/Docs/blob/main/FlatpakNote.pdf)    |
+| [Flatpak Security and Development](https://github.com/TechScribe-Deaf/Docs/blob/main/FlatpakSecurityAndDev.pdf)    |
 
 # Thinking about donating? Consider Subscribing on Patreon!
 [https://patreon.com/user?u=2745624](https://patreon.com/user?u=2745624)
